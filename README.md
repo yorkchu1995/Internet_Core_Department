@@ -8,12 +8,16 @@ Introduce the core groups of mainstream Internet companies according to the tech
 
 AIG 自然语言处理部
 
-AI研究院
+智能汽车事业部
+
+度秘事业部
 
 ### 阿里巴巴
 阿里云：核心系统部、安全部
 
 阿里妈妈
+
+淘宝技术部
 
 搜索事业部：首搜与首猜
 
