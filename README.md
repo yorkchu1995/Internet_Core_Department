@@ -1,5 +1,5 @@
 # Internet_Core_Department
-Introduce the core groups of mainstream Internet companies
+Introduce the core groups of mainstream Internet companies according to the technical atmosphere and performance:
 
 ### 百度
 商务搜索智能交互部 凤巢
@@ -11,24 +11,21 @@ AIG 自然语言处理部
 AI研究院
 
 ### 阿里巴巴
-阿里云
+阿里云：核心系统部、安全部
 
 阿里妈妈
 
-达摩院 
+搜索事业部：首搜与首猜
 
-搜索事业部 首搜与首猜
+蚂蚁金融：支付宝
 
-蚂蚁金融
-
-菜鸟物流
 
 ### 腾讯
-WXG 搜索与微信支付
+WXG 微信支付、开发平台、搜一搜
 
 CDG 广点通
 
-IEG 天美
+IEG 四大工作室
 
 PCG 腾讯视频
 
@@ -38,3 +35,9 @@ AI Lab
 广告系统部
 
 互娱IES部门
+
+### 网易
+互娱
+
+### 京东
+商业提升事业部
